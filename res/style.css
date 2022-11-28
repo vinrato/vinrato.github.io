@@ -37,7 +37,7 @@ section {
 
 @keyframes waveanim {
     from { height: 0.0px; }
-    to   { height: 70.0px; }
+    to   { height: 50.0px; }
 }
 
 .wave1 {
