@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Cara Memeriksa Kondisi HDD"
+date:   2022-12-01 06:06:14 +0700
+categories: teknologi
+tag: Teknologi
+---
+
+![header_img](https://www.blibli.com/friends-backend/wp-content/uploads/2022/04/Cara-Cek-Hardisk-Laptop-Ikuti-Panduannya-Kuy.jpg)
+
+Hardisk merupakan perangkat keras dalam komponen komputer atau laptop yang berfungsi buat menyimpan data permanen. Oleh karenanya, hardisk memiliki peranan yang sangat penting bagi pengguna komputer atau laptop. Umumnya, hardisk memiliki kapasitas yang cukup besar, mulai dari gigabyte (GB) hingga terabyte (TB).
+
+Pemilik komputer atau laptop disarankan untuk kerap melakukan pengecekan terhadap hardisk. Pengecekan ini bertujuan untuk mengetahui kapasitas yang tersisa, kinerja, dan kesehatan hardisk. Sebenarnya, cara cek Hardisk laptop itu cukup mudah karena bisa dilakukan sendiri. Sayangnya belum terlalu banyak pengguna laptop yang peduli dengan hal ini.
+
+Perlu diketahui bahwa masa pakai suatu hardisk bisa berbeda-beda tergantung kualitas pabrikan, pemakaian, dan lain-lain. Untuk mengetahuinya detail hardisk yang digunakan, ini dia beberapa cara cek Hardisk laptop yang bisa kamu terapkan:
+
+**Menggunakan Aplikasi Bawaan**
+
+Cara yang paling gampang dan sering digunakan untuk mengecek hardisk adalah dengan menggunakan tools khusus dari pabrikan hardisk. Kebanyakan pabrikan umumnya telah menyediakan tools gratis untuk memantau kinerja dan kesehatan produknya. Adapun langkah-langkah menggunakan tools untuk mengecek hardisk adalah:
+
+- Cari tahu produsen hardisk yang kamu gunakan dengan cara masuk ke Device Manager yang ada pada laptop.
+- Klik opsi Disk Drives lalu klik simbol segitiga kemudian catat nomor model hardisk yang muncul.
+- Kemudian tuliskan nomor model hardisk tadi ke kolom pencarian Google. Setelah mengetahui pabrikannya, kunjungi website - resminya lalu buka halaman dukungannya dan cari utilitas hard drive.
+
+**Menggunakan CHKDSK**
+
+Tools ini merupakan bawaan Windows yang sudah pasti ada di semua laptop berbasis Windows. Tools ini bisa menemukan kesalahan sistem atau bad sector dengan cara meminta hardisk laptop. Bahkan, tools ini bisa mengatasi masalah besar yang terjadi pada hardisk. Adapun cara menggunakan tools Windows CHKDSK adalah:
+
+- Klik kanan pada hardisk yang ingin dicek lalu klik Properties.
+- Pilih menu tools pada tab yang muncul lalu pilih opsi pengecekan yang tersedia pada kotak dialog.
+- Klik Check atau Check Now untuk melakukan pengecekan dan perbaikan.
+
+**Menggunakan Perintah WMIC**
+
+WMIC merupakan command-line interface yang memungkinkan pengguna laptop untuk menjalankan berbagai tugas administratif, termasuk mengecek hardisk. Adapun langkah-langkah melakukan pengecekan hardisk dengan cara ini adalah:
+
+- Tekan Windows +R kemudian ketik “CMD” dan OK untuk membuka Command Prompt Windows.
+- Ketik WMIC pada kolom yang tersedia lalu Ketik lagi “diskdrive get status” dan enter lagi. Kemudian status hardisk akan - ditampilkan pada layar laptop.
+
+Demikian penjelasan mengenai cara cek hardisk laptop yang sangat mudah diterapkan beserta rekomendasi produknya. Dengan rutin melakukan pengecekan, hardisk akan menjadi lebih sehat dan kinerjanya tentu akan jauh lebih baik. Pastikan juga kamu menggunakan hardisk yang berkualitas biar data-data permanen nggak gampang hilang.
