@@ -8,6 +8,8 @@ tag: Politik
 
 ![img_header](https://static.republika.co.id/uploads/images/inpicture_slide/politik-identitas_210405213039-744.jpeg)
 
+# HALLO NAMA SAYA HESTI
+
 Economist Intelligence Unit (EIU) merilis laporan indeks demokrasi negara-negara di seluruh dunia, termasuk indonesia. Dalam riset yang dilakukan pada 2021 itu menyatakan bahwa Indonesia menduduki peringkat ke-52 dengan skor 6,71. Berdasarkan hasil tersebut, maka Indonesia termasuk sebagai negara dengan demokrasi yang cacat (flawed democracy).
 
 Menurut EIU, negara dengan demokrasi cacat pada umumnya telah memiliki sistem pemilu yang bebas dan adil, namun masih memiliki masalah fundamental seperti budaya politik yang antikritik, partisipasi politik warga yang rendah, serta kinerja pemerintah yang belum optimal. Salah satu cara untuk mengurangi kecacatan demokrasi, perlu adanya penguatan narasi dan edukasi politik, termasuk di ranah akademik.
