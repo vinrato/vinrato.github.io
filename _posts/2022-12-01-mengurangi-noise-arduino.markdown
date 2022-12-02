@@ -9,7 +9,7 @@ tag: Otomisasi
 ![arduino_img](https://images.theengineeringprojects.com/image/main/2018/06/introduction-to-arduino-nano-13.png)
 
 Arduino Nano adalah suatu papan sirkuit pengembang berukuran kecil yang didalamnya sudah tersedia mikrokontroler serta mendukung penggunaan breadboard.
-Arduino Nano khusus dirancang dan diproduksi oleh perusahaan Gravitech dengan menggunakan basis mikrokontroler Atmega328 (untuk Arduino Nano V3) atau Atmega168 (untuk Arduino Nano V2). FAHRI ROSHAN ADI SAPUTRA
+Arduino Nano khusus dirancang dan diproduksi oleh perusahaan Gravitech dengan menggunakan basis mikrokontroler Atmega328 (untuk Arduino Nano V3) atau Atmega168 (untuk Arduino Nano V2).
 
 Pin analog pada arduino sangatlah sensitif terhadap perubahan tegangan. Saking sensitifnya, menyentuh dengan jari saja sudah cukup untuk merusak data analog yang masuk ke arduino. Untuk menyiasati masalah tersebut, kita akan menggunakan sebuah algoritma mean untuk menghitung nilai rata rata data yang dapat diambil dari pin analog arduino.
 
