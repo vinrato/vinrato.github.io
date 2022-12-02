@@ -6,7 +6,7 @@ categories: politik
 tag: Politik
 ---
 
-![img_header](https://static.republika.co.id/uploads/images/inpicture_slide/politik-identitas_210405213039-744.jpeg)
+![img_header](https://cdn.tatlerasia.com/indonesiatatler/images/i/20190903132649-hypebae.com_resized_477x262.png)
 
 # HALLO NAMA SAYA HESTI
 
